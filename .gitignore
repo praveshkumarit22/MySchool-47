@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SchoolERP/src/SchoolERP.Api/bin/Debug/net10.0
+/SchoolERP/src/SchoolERP.Application/bin/Debug/net10.0
+/SchoolERP/src/SchoolERP.Api/obj
+/SchoolERP/src/SchoolERP.Application/obj
+/SchoolERP/src/SchoolERP.Domain/bin/Debug/net10.0
+/SchoolERP/src/SchoolERP.Domain/obj
+/SchoolERP/src/SchoolERP.Infrastructure/bin/Debug/net10.0
+/SchoolERP/tests/SchoolERP.UnitTests/bin/Debug/net10.0
+/SchoolERP/.vs/SchoolERP.slnx
+/SchoolERP/src/SchoolERP.Infrastructure/obj
+/SchoolERP/tests/SchoolERP.UnitTests/obj
