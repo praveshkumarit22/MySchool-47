@@ -1,0 +1,190 @@
+2026-01-19 07:38:16.140 +05:30 [WRN] Entity 'SchoolClass' has a global query filter defined and is the required end of a relationship with the entity 'ClassSection'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:16.290 +05:30 [WRN] Entity 'SchoolClass' has a global query filter defined and is the required end of a relationship with the entity 'ClassSubject'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:16.297 +05:30 [WRN] Entity 'Teacher' has a global query filter defined and is the required end of a relationship with the entity 'TeacherSubject'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:16.301 +05:30 [WRN] Entity 'AttendanceSession' has a global query filter defined and is the required end of a relationship with the entity 'StudentAttendance'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:16.306 +05:30 [WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'ExamPaperQuestion'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:16.313 +05:30 [WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'QuestionOption'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:16.317 +05:30 [WRN] Entity 'Menu' has a global query filter defined and is the required end of a relationship with the entity 'MenuPermission'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:16.321 +05:30 [WRN] Entity 'User' has a global query filter defined and is the required end of a relationship with the entity 'RefreshToken'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:16.327 +05:30 [WRN] Entity 'Permission' has a global query filter defined and is the required end of a relationship with the entity 'RolePermission'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:16.332 +05:30 [WRN] Entity 'Role' has a global query filter defined and is the required end of a relationship with the entity 'UserRole'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:16.337 +05:30 [WRN] Entity 'Student' has a global query filter defined and is the required end of a relationship with the entity 'StudentAdmission'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:16.388 +05:30 [WRN] The foreign key property 'StudentMark.ExamSubjectId1' was created in shadow state because a conflicting property with the simple name 'ExamSubjectId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2026-01-19 07:38:37.062 +05:30 [WRN] Entity 'SchoolClass' has a global query filter defined and is the required end of a relationship with the entity 'ClassSection'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:37.114 +05:30 [WRN] Entity 'SchoolClass' has a global query filter defined and is the required end of a relationship with the entity 'ClassSubject'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:37.119 +05:30 [WRN] Entity 'Teacher' has a global query filter defined and is the required end of a relationship with the entity 'TeacherSubject'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:37.126 +05:30 [WRN] Entity 'AttendanceSession' has a global query filter defined and is the required end of a relationship with the entity 'StudentAttendance'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:37.131 +05:30 [WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'ExamPaperQuestion'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:37.136 +05:30 [WRN] Entity 'Question' has a global query filter defined and is the required end of a relationship with the entity 'QuestionOption'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:37.143 +05:30 [WRN] Entity 'Menu' has a global query filter defined and is the required end of a relationship with the entity 'MenuPermission'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:37.149 +05:30 [WRN] Entity 'User' has a global query filter defined and is the required end of a relationship with the entity 'RefreshToken'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:37.154 +05:30 [WRN] Entity 'Permission' has a global query filter defined and is the required end of a relationship with the entity 'RolePermission'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:37.162 +05:30 [WRN] Entity 'Role' has a global query filter defined and is the required end of a relationship with the entity 'UserRole'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:37.167 +05:30 [WRN] Entity 'Student' has a global query filter defined and is the required end of a relationship with the entity 'StudentAdmission'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-01-19 07:38:37.226 +05:30 [WRN] The foreign key property 'StudentMark.ExamSubjectId1' was created in shadow state because a conflicting property with the simple name 'ExamSubjectId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2026-01-19 07:38:39.613 +05:30 [INF] Executed DbCommand (37ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2026-01-19 07:38:39.648 +05:30 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2026-01-19 07:38:39.708 +05:30 [INF] Executed DbCommand (46ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DECLARE @result int;
+EXEC @result = sp_getapplock @Resource = '__EFMigrationsLock', @LockOwner = 'Session', @LockMode = 'Exclusive';
+SELECT @result
+2026-01-19 07:38:39.903 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF OBJECT_ID(N'[__EFMigrationsHistory]') IS NULL
+BEGIN
+    CREATE TABLE [__EFMigrationsHistory] (
+        [MigrationId] nvarchar(150) NOT NULL,
+        [ProductVersion] nvarchar(32) NOT NULL,
+        CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+    );
+END;
+2026-01-19 07:38:40.016 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2026-01-19 07:38:40.023 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2026-01-19 07:38:40.057 +05:30 [INF] Executed DbCommand (18ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2026-01-19 07:38:40.100 +05:30 [INF] Applying migration '20260119020820_AcademicMasters_Init'.
+2026-01-19 07:38:40.333 +05:30 [INF] Executed DbCommand (22ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AcademicYears] (
+    [Id] nvarchar(450) NOT NULL,
+    [Name] nvarchar(20) NOT NULL,
+    [StartDate] date NOT NULL,
+    [EndDate] date NOT NULL,
+    [IsCurrent] bit NOT NULL DEFAULT CAST(0 AS bit),
+    [IsDeleted] bit NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [CreatedBy] nvarchar(max) NULL,
+    [UpdatedAt] datetime2 NULL,
+    [UpdatedBy] nvarchar(max) NULL,
+    [TenantId] nvarchar(450) NOT NULL,
+    [BranchId] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_AcademicYears] PRIMARY KEY ([Id])
+);
+2026-01-19 07:38:40.358 +05:30 [INF] Executed DbCommand (9ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [SchoolClasses] (
+    [Id] nvarchar(450) NOT NULL,
+    [Name] nvarchar(50) NOT NULL,
+    [SortOrder] int NOT NULL,
+    [IsDeleted] bit NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [CreatedBy] nvarchar(max) NULL,
+    [UpdatedAt] datetime2 NULL,
+    [UpdatedBy] nvarchar(max) NULL,
+    [TenantId] nvarchar(450) NOT NULL,
+    [BranchId] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_SchoolClasses] PRIMARY KEY ([Id])
+);
+2026-01-19 07:38:40.544 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Sections] (
+    [Id] nvarchar(450) NOT NULL,
+    [Name] nvarchar(10) NOT NULL,
+    [Capacity] int NOT NULL,
+    [IsDeleted] bit NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [CreatedBy] nvarchar(max) NULL,
+    [UpdatedAt] datetime2 NULL,
+    [UpdatedBy] nvarchar(max) NULL,
+    [TenantId] nvarchar(450) NOT NULL,
+    [BranchId] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Sections] PRIMARY KEY ([Id])
+);
+2026-01-19 07:38:40.556 +05:30 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Subjects] (
+    [Id] nvarchar(450) NOT NULL,
+    [Name] nvarchar(100) NOT NULL,
+    [Code] nvarchar(max) NULL,
+    [IsElective] bit NOT NULL,
+    [IsDeleted] bit NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [CreatedBy] nvarchar(max) NULL,
+    [UpdatedAt] datetime2 NULL,
+    [UpdatedBy] nvarchar(max) NULL,
+    [TenantId] nvarchar(450) NOT NULL,
+    [BranchId] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Subjects] PRIMARY KEY ([Id])
+);
+2026-01-19 07:38:40.576 +05:30 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Teachers] (
+    [Id] nvarchar(450) NOT NULL,
+    [FullName] nvarchar(150) NOT NULL,
+    [Email] nvarchar(450) NULL,
+    [Phone] nvarchar(max) NULL,
+    [IsDeleted] bit NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [CreatedBy] nvarchar(max) NULL,
+    [UpdatedAt] datetime2 NULL,
+    [UpdatedBy] nvarchar(max) NULL,
+    [TenantId] nvarchar(450) NOT NULL,
+    [BranchId] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Teachers] PRIMARY KEY ([Id])
+);
+2026-01-19 07:38:40.591 +05:30 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [ClassSections] (
+    [Id] nvarchar(450) NOT NULL,
+    [SchoolClassId] nvarchar(450) NOT NULL,
+    [SectionId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_ClassSections] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_ClassSections_SchoolClasses_SchoolClassId] FOREIGN KEY ([SchoolClassId]) REFERENCES [SchoolClasses] ([Id]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_ClassSections_Sections_SectionId] FOREIGN KEY ([SectionId]) REFERENCES [Sections] ([Id]) ON DELETE NO ACTION
+);
+2026-01-19 07:38:40.609 +05:30 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [ClassSubjects] (
+    [Id] nvarchar(450) NOT NULL,
+    [SchoolClassId] nvarchar(450) NOT NULL,
+    [SubjectId] nvarchar(450) NOT NULL,
+    [IsMandatory] bit NOT NULL,
+    CONSTRAINT [PK_ClassSubjects] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_ClassSubjects_SchoolClasses_SchoolClassId] FOREIGN KEY ([SchoolClassId]) REFERENCES [SchoolClasses] ([Id]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_ClassSubjects_Subjects_SubjectId] FOREIGN KEY ([SubjectId]) REFERENCES [Subjects] ([Id]) ON DELETE NO ACTION
+);
+2026-01-19 07:38:40.625 +05:30 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [TeacherSubjects] (
+    [Id] nvarchar(450) NOT NULL,
+    [TeacherId] nvarchar(450) NOT NULL,
+    [ClassSubjectId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_TeacherSubjects] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_TeacherSubjects_ClassSubjects_ClassSubjectId] FOREIGN KEY ([ClassSubjectId]) REFERENCES [ClassSubjects] ([Id]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_TeacherSubjects_Teachers_TeacherId] FOREIGN KEY ([TeacherId]) REFERENCES [Teachers] ([Id]) ON DELETE NO ACTION
+);
+2026-01-19 07:38:40.644 +05:30 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AcademicYears_TenantId] ON [AcademicYears] ([TenantId]);
+2026-01-19 07:38:40.668 +05:30 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_AcademicYears_TenantId_Name] ON [AcademicYears] ([TenantId], [Name]);
+2026-01-19 07:38:40.742 +05:30 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_ClassSections_SchoolClassId_SectionId] ON [ClassSections] ([SchoolClassId], [SectionId]);
+2026-01-19 07:38:40.753 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_ClassSections_SectionId] ON [ClassSections] ([SectionId]);
+2026-01-19 07:38:40.768 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_ClassSubjects_SchoolClassId_SubjectId] ON [ClassSubjects] ([SchoolClassId], [SubjectId]);
+2026-01-19 07:38:40.782 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_ClassSubjects_SubjectId] ON [ClassSubjects] ([SubjectId]);
+2026-01-19 07:38:40.796 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_SchoolClasses_TenantId] ON [SchoolClasses] ([TenantId]);
+2026-01-19 07:38:40.809 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_SchoolClasses_TenantId_Name] ON [SchoolClasses] ([TenantId], [Name]);
+2026-01-19 07:38:40.823 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Sections_TenantId] ON [Sections] ([TenantId]);
+2026-01-19 07:38:40.834 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Sections_TenantId_Name] ON [Sections] ([TenantId], [Name]);
+2026-01-19 07:38:40.847 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Subjects_TenantId] ON [Subjects] ([TenantId]);
+2026-01-19 07:38:40.861 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_Subjects_TenantId_Name] ON [Subjects] ([TenantId], [Name]);
+2026-01-19 07:38:40.876 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Teachers_TenantId] ON [Teachers] ([TenantId]);
+2026-01-19 07:38:40.891 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Teachers_TenantId_Email] ON [Teachers] ([TenantId], [Email]);
+2026-01-19 07:38:40.901 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_TeacherSubjects_ClassSubjectId] ON [TeacherSubjects] ([ClassSubjectId]);
+2026-01-19 07:38:40.918 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_TeacherSubjects_TeacherId_ClassSubjectId] ON [TeacherSubjects] ([TeacherId], [ClassSubjectId]);
+2026-01-19 07:38:40.934 +05:30 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20260119020820_AcademicMasters_Init', N'10.0.2');
+2026-01-19 07:38:40.956 +05:30 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DECLARE @result int;
+EXEC @result = sp_releaseapplock @Resource = '__EFMigrationsLock', @LockOwner = 'Session';
+SELECT @result
