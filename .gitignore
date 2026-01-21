@@ -13,3 +13,87 @@
 /SchoolERP/.vs/SchoolERP.slnx
 /SchoolERP/src/SchoolERP.Infrastructure/obj
 /SchoolERP/tests/SchoolERP.UnitTests/obj
+
+
+
+# ===================================
+# .NET build output (ALL SDK versions)
+# ===================================
+bin/
+obj/
+**/bin/
+**/obj/
+artifacts/
+publish/
+TestResults/
+[Bb]uild/
+[Ll]og/
+
+# ===================================
+# Visual Studio / Rider
+# ===================================
+.vs/
+.idea/
+.vscode/
+_ReSharper*/
+*.DotSettings.user
+
+# ===================================
+# User-specific files
+# ===================================
+*.suo
+*.user
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# ===================================
+# NuGet
+# ===================================
+packages/
+.nuget/
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+
+# ===================================
+# .NET SDK / MSBuild internals
+# ===================================
+*.binlog
+*.tlog
+*.jfm
+*.dbmdl
+*.cache
+
+# ===================================
+# Logs & temp files
+# ===================================
+*.log
+*.tmp
+*.bak
+*.svclog
+*.pidb
+
+# ===================================
+# Environment & secrets
+# ===================================
+.env
+.env.*
+secrets.json
+appsettings.Development.json
+appsettings.Local.json
+
+# ===================================
+# Coverage & testing
+# ===================================
+coverage/
+*.coverage
+*.coveragexml
+
+# ===================================
+# OS files
+# ===================================
+.DS_Store
+Thumbs.db
+
